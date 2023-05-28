@@ -1,24 +1,35 @@
-[![MasterHead](https://www.pixelturk.net/assets/images/media/yazilim-gelistirme.jpg)
-<h1 align="center">Merhaba 👋,Ben Berat 17 Yaşında Bot Yapan Biriyim Kendi Altyapımı Şuan Kodluyorum</h1>
-<h3 align="center">Discord developer living in Turkey</h3>
+<h1 align="center"> </🌼ChavoS>  
+ <img href="https://discord.com/users/1016790573186818119" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=For+%F0%9F%93%A9+Support+And+%F0%9F%93%9E+Communication;Contact+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Be%C5%9F%230005" alt="ChavoS Was Here" />
+</h1>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
+<p align="center">
+ <a align="center" href="https://discord.com/users/829261384885207040" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a align="center" href="https://www.github.com/ChavoS-js" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://top.gg/bot/1028383658970726480"><img src="https://top.gg/api/widget/servers/854463472318677022.svg"></a>
+  <a align="center" href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a align="center" href="https://www.instagram.com/ChavoS" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<br> </br>
 
-- 🔭 Currently I'm Developing Bots **writes code**
+ 
 
-- 📄 you can ask me whatever you want **Dc:ᛅ Chavo'S#5906**
+ <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauge's+%26+Tool's" alt="Typing SVG" /></h2>
+ <h2 align="center">
+ <img src="https://skillicons.dev/icons?i=cs,js,ts,html,css,nodejs,mysql,sqlite,mongo,redis&theme=dark" />
+ </h2>
+  <h2 align="center">
+ <img src="https://skillicons.dev/icons?i=dotnet,express,gitlab,postman,powershell,regex,stackoverflow,vscode,visualstudio,atom&theme=dark" />
+  </h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/chavo-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chavo-js" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chavo-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chavo-js" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/macellan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/macellan" height="30" width="40" /></a>
-</p>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00DCFF&repeat=false&background=69FF2000&center=true&vCenter=true&width=435&lines=Badge's" alt="Typing SVG" /></h2>
+<h2 align="center">
+<img align="center" alt="ChavoS" width="40px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777095957168218/Snapchat-Offical-Lens-Creator-Badge.png" />
+ <img align="center" alt=ChavoS" width="40px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777834607640646/230x0w.png" />
+ <img align="center" alt="ChavoS" width="40px" src="https://cdn.discordapp.com/emojis/1042377154350043228.png?size=96" />
+ <img align="center" alt="ChavoS" width="40px" src="https://cdn.discordapp.com/emojis/963191315049353297.gif?size=128&quality=lossless" />
+ </h2>
+</br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavo-js&show_icons=true&locale=en&layout=compact" alt="chavo-js" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chavo-js&show_icons=true&locale=en" alt="chavo-js" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavo-js&" alt="chavo-js" /></p>
-
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=ChavoS-js&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavoS-js&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
