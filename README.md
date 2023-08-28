@@ -1,54 +1,25 @@
-# ✨ Hi, I am ChavoS
+<h1 align="center">Hi 👋, I'm ChavoS-js ❤️</h1>
+<h3 align="center">I'm from Turkey,I'm dealing with coding. i am a student</h3>
 
- ```js
-class ChavoS {
-constructor(options) {
-this.name = "Emir",
-this.age = 19,
-this.discord = "ChavoS",
-this.discordId = "829261384885207040"
-  };
-}
-module.exports = ChavoS;
-```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChavoS-js&label=Profile%20views&color=0e75b6&style=flat" alt="ChavoS-js" /> </p>
 
-<h2 align="center">
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/752942906322583712?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)]([https://](https://discord.com/users/829261384885207040))
 
-  <p align=center>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=ChavoS&data=followers,repositories,stars,commits&theme=darkmode" alt="">
-  </p>
-</a>
-<h2 align="center">
-<img src="https://komarev.com/ghpvc/?username=ChavoS&color=dc143c"/>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChavoS-js" alt="ChavoS-js" /></a> </p>
 
-<div align="center">
-    <a href="https://discord.com/users/852829781132967997" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/852829781132967997"></a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/belali_ChavoS-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belali_ChavoS-js" height="30" width="40" /></a>
+<a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ChavoS-jsll" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ChavoS-jsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ChavoS-jsl" height="30" width="40" /></a>
+<a href="https://discord.gg/752942906322583712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="752942906322583712" height="30" width="40" /></a>
+</p>
 
-## ⚡ Contact
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<div align="center">
-    <a href="https://discord.com/users/852829781132967997" target="_blank"><img src="https://shields.io/badge/ChavoS-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a align="center" href="https://www.instagram.com/ChavoS" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://github.com/ChavoS" target="_blank"><img src="https://shields.io/badge/ChavoS-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://discord.gg/clydev" target="_blank"><img src="https://shields.io/badge/Discord Sunucum-111111.svg?&style=for-the-badge"></a>
-    </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChavoS-js&show_icons=true&locale=en&layout=compact" alt="ChavoS-js" /></p>
 
-## 💻 Technologies
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChavoS-js&show_icons=true&locale=en" alt="ChavoS-js" /></p>
 
-<div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
-    <img alt="Vue.js" align="center" src="https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white"/>
-    <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-    <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
-</div>
-
-</br>
-
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
-<h2 align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ChavoS&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavoS&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChavoS-js&" alt="ChavoS-js" /></p>
