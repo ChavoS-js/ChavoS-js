@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChavoS-js ❤️</h1>
-<h3 align="center">I'm from Turkey,I'm dealing with coding. i am a student</h3>
+<h3 align="center">I'm a 16-Year-Old Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChavoS-js&label=Profile%20views&color=0e75b6&style=flat" alt="ChavoS-js" /> </p>
 
