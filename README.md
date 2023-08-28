@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChavoS-js&label=Profile%20views&color=0e75b6&style=flat" alt="ChavoS-js" /> </p>
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/752942906322583712?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)]([https://](https://discord.com/users/829261384885207040))
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/829261384885207040?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)]([https://](https://discord.com/users/829261384885207040))
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChavoS-js" alt="ChavoS-js" /></a> </p>
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/belali_ChavoS-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belali_ChavoS-js" height="30" width="40" /></a>
 <a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ChavoS-jsll" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ChavoS-jsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ChavoS-jsl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ChavoS-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ChavoS-jsl" height="30" width="40" /></a>
 <a href="https://discord.gg/752942906322583712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="752942906322583712" height="30" width="40" /></a>
 </p>
 
